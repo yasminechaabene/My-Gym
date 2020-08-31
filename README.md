@@ -1,5 +1,5 @@
 # My-Gym
-My Gym is a desktop application for gym management. 
+My Gym is a Linux desktop application for gym management. 
 This app is used by: 
 The administrator, Customers , Sports coaches ,The dietitian(s), The doctor(s) , Nutritionist(s) , The physiotherapist(s).
 It mainly allows user management and offers an analysis phase advanced to ensure the medical follow-up of members.
